@@ -3,7 +3,7 @@ from transpiler import transpile
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser = argparse.ArgumentParser(description='this is the simplest tool with argparse')
     # parser.add_argument('integers', metavar='N', type=int, nargs='+',
     #                     help='an integer for the accumulator')
     # parser.add_argument('--sum', dest='accumulate', action='store_const',
